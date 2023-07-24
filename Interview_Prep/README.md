@@ -7,15 +7,15 @@
 - [ ] Sliding Window Patterns: https://lnkd.in/gjatQ5pK
 - [ ] Graph Patterns: https://lnkd.in/gKE6w7Jb
 
-# GeeksForGeek Sprint to Solve: https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions
+# GeeksForGeek Sprint to Solve: 
 - [ ] Begineer's DSA Sheet
 - [ ] SDE Sheet
 - [ ] Top 50 Array Problem 
-- [ ] ##Top 50 String Problem
+- [ ] Ongoing - Top 50 String Problem
 - [ ] Top 50 DP Problem
 
 # LeetCode
-- [ ] ##LeetCode: Top Interview 150: https://leetcode.com/studyplan/top-interview-150/
+- [ ] Ongoing - LeetCode: Top Interview 150: https://leetcode.com/studyplan/top-interview-150/
 - [ ] Bit Manipulation : https://leetcode.com/explore/learn/card/bit-manipulation/
 - [ ] Sorting
 - [ ] The LeetCode Begineer's Guide
@@ -25,6 +25,3 @@
 - [ ] Graph
 - [ ] Heap
 - [ ] Recursion 1
-
-
-
